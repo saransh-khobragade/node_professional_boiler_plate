@@ -1,7 +1,7 @@
 {
-  "name": "node_inventory_project",
+  "name": "node_professional_boilerplate",
   "version": "1.0.0",
-  "description": "Nodejs project to maintain product category inventory mapping",
+  "description": "node_professional_boilerplate",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
