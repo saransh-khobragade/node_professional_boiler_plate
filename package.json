@@ -1,0 +1,32 @@
+{
+  "name": "node_inventory_project",
+  "version": "1.0.0",
+  "description": "Nodejs project to maintain product category inventory mapping",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saru998/node_inventory_project.git"
+  },
+  "author": "Saransh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saru998/node_inventory_project/issues"
+  },
+  "homepage": "https://github.com/saru998/node_inventory_project#readme",
+  "dependencies": {
+    "express": "4.17.1",
+    "body-parser": "1.19.0",
+    "jsonwebtoken": "8.5.1",
+    "bcryptjs": "2.4.3",
+    "winston": "2.3.1",
+    "winston-papertrail": "1.0.5",
+    "shortid": "2.2.15",
+    "response-time": "2.3.2",
+    "redis": "3.0.2",
+    "request": "2.88.2",
+    "mongodb": "3.5.5"
+  }
+}
